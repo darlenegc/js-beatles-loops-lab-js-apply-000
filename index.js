@@ -14,6 +14,7 @@ function johnLennonFacts () {
     array.push(facts [i] + "!!!")
     i++;
   }
+  return array
 }
 
 function iLoveTheBeatles(number) {
